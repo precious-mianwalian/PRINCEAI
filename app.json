@@ -12,19 +12,19 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "put your session ID here in the box below",
+      "description": "Prince~scl/fi/4dh4go1xladc0fjg8bqkw/dvZebqPYbU.json?rlkey=70g1k57ab7ezzn3kp4e12wiqs&dl=0",
       "required": true,
-      "value": ""
+      "value": "Prince~scl/fi/4dh4go1xladc0fjg8bqkw/dvZebqPYbU.json?rlkey=70g1k57ab7ezzn3kp4e12wiqs&dl=0"
     },
     "BOT_NAME": {
-      "description": "put your BOT a name",
+      "description": "꙰༆꙰𝙈꙰𝙪꙰𝙙꙰𝙖꙰𝙨꙰𝙨꙰𝙖꙰𝙧 ꙰𝙆꙰𝙝꙰𝙖꙰𝙣꙰𖣐꙰",
       "required": true,
-      "value": "PRINCE-BOT"
+      "value": "꙰༆꙰𝙈꙰𝙪꙰𝙙꙰𝙖꙰𝙨꙰𝙨꙰𝙖꙰𝙧 ꙰𝙆꙰𝙝꙰𝙖꙰𝙣꙰𖣐꙰"
     },
     "OWNER_NUMBER": {
-      "description": "put your Number and name for Owner",
+      "description": "923071639265,꙰༆꙰𝙈꙰𝙪꙰𝙙꙰𝙖꙰𝙨꙰𝙨꙰𝙖꙰𝙧 ꙰𝙆꙰𝙝꙰𝙖꙰𝙣꙰𖣐꙰",
       "required": true,
-      "value": "639129985130,DEVELOPER"
+      "value": "923071639265,꙰༆꙰𝙈꙰𝙪꙰𝙙꙰𝙖꙰𝙨꙰𝙨꙰𝙖꙰𝙧 ꙰𝙆꙰𝙝꙰𝙖꙰𝙣꙰𖣐꙰"
     },
     "owner_react_emojie": {
       "description": "put one emojie for owner reacts",
@@ -39,8 +39,7 @@
     "BUSINESS_MODE": {
       "description": "If your deploying bot in WhatsApp Bussinus then make it 👉🏻 true",
       "required": true,
-      "value": "false"
-    },
+      "value": "true},
     "MENU_IMAGE": {
       "description": "put image url,url 👈🏻 like this as much as you want for menu image or leave it blank for default images",
       "required": false,
@@ -54,7 +53,7 @@
     "AlwaysOnline": {
       "description": "make it true to be always online",
       "required": false,
-      "value": "false" 
+      "value": "true" 
     },
     "antidelete": {
       "description": "Set 'private' to forward deleted messages only from private chats, 'all' to forward from both private and group chats, or 'false' to disable this feature.",
@@ -79,7 +78,7 @@
     "VAR_APP": {
       "description": "put same app name you entered above",
       "required": true,
-      "value": ""
+      "value": "꙰༆꙰𝙈꙰𝙪꙰𝙙꙰𝙖꙰𝙨꙰𝙨꙰𝙖꙰𝙧 ꙰𝙆꙰𝙝꙰𝙖꙰𝙣꙰𖣐꙰"
     },
     "VAR_KEY": {
       "description": "put heroku key click on accounts scroll down copy that key past here",
@@ -94,7 +93,7 @@
     "StatusLikes": {
       "description": "make it true to auto likes on status",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "StatusEmojies": {
       "description": "Add your favorites emojies for status likes",
